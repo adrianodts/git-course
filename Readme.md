@@ -1,2 +1,4 @@
-#Curso GIT
-Aula 1
+# Git Course
+
+Este é um repositório de teste para curso git 
+
